@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "gsap": "^3.12.5",
+    "locomotive-scroll": "^5.0.0-beta.21",
     "three": "^0.171.0"
   }
 }
