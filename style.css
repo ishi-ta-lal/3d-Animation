@@ -12,3 +12,7 @@ html, body{
 body{
     background-color: black;
 }
+
+.label{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
